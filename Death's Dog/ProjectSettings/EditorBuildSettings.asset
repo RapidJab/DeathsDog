@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 9ab9fdbed129098419c53bef1f59a5a3
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 9f1f5a4b83e675647b359f909c7c4879
+  - enabled: 1
+    path: Assets/Scenes/Pianist.unity
+    guid: cc29416deeda29146bd01ae0aa0df48c
+  - enabled: 1
+    path: Assets/Scenes/Detective.unity
+    guid: 860ab9232f277fc4c8bb95f2e323f93b
+  - enabled: 1
+    path: Assets/Scenes/Grandma.unity
+    guid: 6a6d3b6919b85644db65a1cecbd3dd26
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: b2d7b61ae63a24e489bd54df1ee29aaf,
+      type: 2}

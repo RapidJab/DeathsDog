@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 177201979f48cb6419964bc161a19b16, type: 3}
+  m_Name: PianoLevelNoises
+  m_EditorClassIdentifier: 
+  platformerSongs:
+  - {fileID: 8300000, guid: c462ed436a792f646891482dd8c995ab, type: 3}
+  memorySongs:
+  - {fileID: 8300000, guid: c462ed436a792f646891482dd8c995ab, type: 3}
+  fallingPlatformSounds:
+  - {fileID: 8300000, guid: 754091bf6d8d2574389b052fc1d1ecf9, type: 3}
+  - {fileID: 8300000, guid: f8c4f17555c4cff4aa2a4db0b8159e96, type: 3}
+  - {fileID: 8300000, guid: 4a152afe3730b4e419b85dac06355b16, type: 3}
+  - {fileID: 8300000, guid: 3c09e93bbf21039408986d4a4e79f74f, type: 3}
+  - {fileID: 8300000, guid: 1bc23d501326c2e4795a94f0cbe4899f, type: 3}
+  - {fileID: 8300000, guid: cc6e56e1c5e49284ab376e53cd7e9341, type: 3}
+  - {fileID: 8300000, guid: b8bb5ecfcaa454541b1a86d4625b704e, type: 3}

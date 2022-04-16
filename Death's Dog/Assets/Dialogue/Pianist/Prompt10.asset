@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14b27f4458e357e4d9ff365209442c25, type: 3}
+  m_Name: Prompt10
+  m_EditorClassIdentifier: 
+  line: Expend 10 Courage to activate memory?
+  boxColor: {r: 1, g: 1, b: 1, a: 1}
+  textColor: {r: 0.5568628, g: 0.5568628, b: 0.5568628, a: 1}
+  scrollSpeed: 0.03
+  requiredTime: 0
+  actorName: 
+  animName: 
+  requiredItems: 10
+  yesNo: 1
+  moveSpeed: 0
